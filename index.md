@@ -41,16 +41,23 @@
 以下联合建议响应国际商标法的趋势和发展：
 
 [保护驰名商标 PDF, 保护驰名商标](https://www.wipo.int/edocs/pubdocs/zh/marks/833/pub833.pdf)
+
 [商标使用许可 PDF, 商标使用许可](https://www.wipo.int/edocs/pubdocs/zh/marks/833/pub833.pdf)
+
 [在互联网上保护商标及标志的其他工业产权 PDF, 在互联网上保护商标及标志的其他工业产权](https://www.wipo.int/edocs/pubdocs/zh/marks/833/pub833.pdf)
 
 参考文件
 
 [商标法律与实践——问卷答复摘要 PDF, Summary of Replies to the Questionnaire on Trademark Law and Practice, Rev. 1](https://www.wipo.int/export/sites/www/sct/en/meetings/pdf/wipo_strad_inf_1_rev_1.pdf)
+
 [非传统商标图样趋同领域 PDF, Representation of Non-Traditional Marks – Areas of Convergence](https://www.wipo.int/export/sites/www/sct/en/meetings/pdf/wipo_strad_inf_3.pdf)
+
 [商标异议程序趋同领域 PDF, Trademark Opposition Procedures - Areas of Convergence](https://www.wipo.int/export/sites/www/sct/en/meetings/pdf/wipo_strad_inf_4.pdf)
+
 [商标的通用驳回理由 PDF, Grounds for Refusal of all Types of Marks](https://www.wipo.int/export/sites/www/sct/en/meetings/pdf/wipo_strad_inf_5.pdf)
+
 [集体商标与证明商标注册的技术和程序问题 PDF, Technical and Procedural Aspects Relating to the Registration of Certification and Collective Marks](https://www.wipo.int/export/sites/www/sct/en/meetings/pdf/wipo_strad_inf_6.pdf)
+
 [保护国名防止作为商标注册和使用PDF, 保护国名防止作为商标注册和使用](https://www.wipo.int/export/sites/www/sct/zh/meetings/pdf/wipo_strad_inf_7.pdf)
 
 ### 注册商标
