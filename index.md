@@ -69,6 +69,16 @@
 
 尼斯分类是一种商标注册用商品和服务国际分类体系。
 
+## 笔记
+
+## 讲座
+
+![石卉：从商标侵权案，论商标保护策略难点及对策建议_0](https://user-images.githubusercontent.com/100815582/156675174-227ba556-0798-4016-8c03-5e92b8ed2cd0.jpg)
+![石卉：从商标侵权案，论商标保护策略难点及对策建议_1](https://user-images.githubusercontent.com/100815582/156675192-6f337b53-b08a-49e9-95af-a0057acf6208.jpg)
+![石卉：从商标侵权案，论商标保护策略难点及对策建议_2](https://user-images.githubusercontent.com/100815582/156675205-45c85d80-fddd-4578-8c12-dd3e3b16da20.jpg)
+![石卉：从商标侵权案，论商标保护策略难点及对策建议_3](https://user-images.githubusercontent.com/100815582/156675228-25ad3658-65f3-4da0-a459-3f7ae5abfdca.jpg)
+
+
 ## 参考
 
 ![Alt](https://repobeats.axiom.co/api/embed/690159b3bc59fc4350e52e4dcba695e4e18e7865.svg "Repobeats analytics image")
