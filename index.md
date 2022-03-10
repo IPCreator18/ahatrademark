@@ -171,6 +171,11 @@
 ![image](https://user-images.githubusercontent.com/100815582/157035976-57bf22c2-0444-4733-901c-a94ebe6d2ec2.png)
 ![image](https://user-images.githubusercontent.com/100815582/157035983-e17a1c9e-c8e8-40db-885f-37920e7f163e.png)
 
+#### 国内外商标基础知识
+
+![image](https://user-images.githubusercontent.com/100815582/157579434-ccd008c0-cfef-4e6f-88b1-ad24895747e2.png)
+![image](https://user-images.githubusercontent.com/100815582/157579456-8c31bf1a-4264-4389-9d41-102359cbb9af.png)
+
 
 ## 参考
 
